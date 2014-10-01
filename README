@@ -27,6 +27,8 @@ INSTALLATION
 ============
 Make sure you have the following pre-requisites installed before proceeding with the installation.
 
+Read CONFIGURATION file and create a printers.conf file before installing
+
 To install pharos remote printing open terminal and go to this package directory. Run the setup.py file as administrator user
 # sudo python setup.py
 
